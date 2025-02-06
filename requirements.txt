@@ -1,0 +1,6 @@
+pip install SpeechRecognition
+pip install pyaudio
+pip install pipwin
+pipwin install pyaudio
+pip install pydub
+pip install os
