@@ -5,7 +5,7 @@ print(os.listdir())  # Verifica si 'ingles1.wav' aparece en la lista
 recognizer = sr.Recognizer()
 
 
-audio_file = r"C:\Users\cristopher\Desktop\es\traductor\ingles1.wav"
+audio_file = r"C:\tu\ruta\ingles1.wav"
  
 
 with sr.AudioFile(audio_file) as source:
